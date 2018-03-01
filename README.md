@@ -22,6 +22,4 @@
   </div>
  
 <? php
-echo "<table>">
-?>
 </form>
